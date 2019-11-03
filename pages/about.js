@@ -1,3 +1,3 @@
-module.exports = function main(res) {
-    res.write('<div>about page</div>');
+module.exports = function about(req, res) {
+  res.write('<div>about page</div>');
 };

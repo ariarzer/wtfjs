@@ -1,0 +1,32 @@
+[
+  {
+    "text": "{} === []",
+    "answer": [
+      {
+        "text": "true",
+        "isTrue": false
+      },
+      {
+        "text": "false",
+        "isTrue": false
+      },
+      {
+        "text": "0",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "text": "[] === []",
+    "answer": [
+      {
+        "text": "true",
+        "isTrue": false
+      },
+      {
+        "text": "false",
+        "isTrue": true
+      }
+    ]
+  }
+]
